@@ -19,8 +19,10 @@ I'm a Partner at Northwind Computers in Boise, Idaho, where I run IT for 60+ sma
 |---|---|
 | [slack-time-entry-bot](https://github.com/DevinBowermaster/slack-time-entry-bot) | Technicians log billable time by sending a Slack message. Claude parses it, the tech approves a preview, and the entry goes to the PSA. |
 | [msp-client-health](https://github.com/DevinBowermaster/msp-client-health) | Puts client satisfaction (CSAT and NPS surveys) next to contract profitability, so you can see which clients need a conversation. |
+| [lead-pipeline](https://github.com/DevinBowermaster/lead-pipeline) | Finds likely-fit nonprofits in public IRS data, scores them with reasons, and keeps the PSA in step through a two-way sync that can't loop or create duplicates. |
+| [ai-news-digest](https://github.com/DevinBowermaster/ai-news-digest) | A twice-weekly AI and IT news email. Claude summarizes vendor feeds and exploited vulnerabilities, and code checks every fact against its source before it goes out. |
 
-Both are clean-room versions of tools I run in production, rebuilt with made-up data so the code can be public.
+All four are clean-room versions of tools I run in production, rebuilt with made-up data so the code can be public.
 
 ### How I build with AI
 
